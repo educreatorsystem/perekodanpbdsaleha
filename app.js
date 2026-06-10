@@ -9,7 +9,7 @@ const SHEET_URLS = {
     "https://docs.google.com/spreadsheets/d/e/2PACX-1vQa3yohYsUpxwBrh2347G-IWOCc0SNasi1wHRr_psY9w8pkDbqoPA5KbNbqqg3gQO1-tbs6tttW0VQt/pub?gid=429299684&single=true&output=csv",
 };
 
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwB--EGC0CV_bnRiwaaE5kZRrZS1krrV8ofpK5OtjuSBqSHS4ylrNhoUBA-c9UyZQmy/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbye1NLar0gfJyziscW8UJrqdWJfYMXz4nBWV17MwMGipvyBIe6wsGiFSathikkOmTd7/exec";
 const STORAGE_KEY = "perekodan-pbd-records";
 let records = [];
 let currentSelections = {};
